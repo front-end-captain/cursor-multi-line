@@ -41,6 +41,6 @@ Setup in user keybindings by doing `cmd+shit+P`, `open keyboard shortcuts`, and 
 
 ---
 
-Created by Front-end-captain, 12 apr 2020
+Created by Front-end-captain, 23 Dec 2020
 
 **Enjoy!**
