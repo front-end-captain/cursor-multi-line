@@ -29,16 +29,6 @@ None. Appart from [vscode-extension-starter-guide](https://code.visualstudio.com
 
 Setup in user keybindings by doing `cmd+shit+P`, `open keyboard shortcuts`, and editing to your desire as above.
 
-## Known Issues
-
-None.
-
-## Release Notes
-
-### 0.0.1
-
-Initial release.
-
 ## Contributing
 
 - `git clone ...`
@@ -51,6 +41,6 @@ Initial release.
 
 ---
 
-Created by Leonard Pauli, 6 apr 2019
+Created by Front-end-captain, 12 apr 2020
 
 **Enjoy!**
