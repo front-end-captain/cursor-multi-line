@@ -2,7 +2,7 @@
   "name": "cursor-multi-line",
   "displayName": "cursor-multi-line",
   "description": "Jump or select eg. 8 lines up/down with option+up/down(shift+option+up/down) (fast navigation, customizable)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "front-end-captain",
   "engines": {
     "vscode": "^1.52.0"
